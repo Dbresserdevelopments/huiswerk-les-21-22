@@ -1,0 +1,25 @@
+#kop{background-color: darkgrey;}
+
+#inhoud{background-color: black;}
+
+#voet{
+  min-height: 200px;
+  background-color: darkgrey;
+}
+
+form{
+  padding-bottom: 5px;
+}
+
+
+div{
+  color: white;
+}
+
+h1, h2,h3, p{
+  text-align: center;
+}
+
+img{
+ padding-bottom: 10px;
+}
